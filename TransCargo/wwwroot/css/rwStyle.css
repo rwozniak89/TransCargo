@@ -1,0 +1,12 @@
+﻿
+
+
+.bg-black {
+    background-color: #1d2124 !important;
+}
+
+a.bg-black:hover, a.bg-black:focus,
+button.bg-black:hover,
+button.bg-black:focus {
+    background-color: #000000 !important;
+}

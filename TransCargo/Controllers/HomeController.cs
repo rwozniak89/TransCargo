@@ -22,12 +22,6 @@ namespace TransCargo.Controllers
         {
             return View();
         }
-
-
-        public IActionResult Strona1()
-        {
-            return View();
-        }
         public IActionResult Strona2()
         {
             return View();
@@ -36,8 +30,6 @@ namespace TransCargo.Controllers
         {
             return View();
         }
-
-
         public IActionResult Privacy()
         {
             return View();
